@@ -22,8 +22,3 @@ pre.prettyprint {
 pre {
   font-size: 12px;
 }
-a {
-    color: #1a0dab!important;
-    text-decoration: none;
-    -webkit-tap-highlight-color: rgba(0,0,0,.1);
-}
