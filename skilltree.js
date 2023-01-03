@@ -4,9 +4,9 @@
  * @Author: michael
  * @Date: 2022-12-11 20:17:58
  * @LastEditors: michael
- * @LastEditTime: 2023-01-03 16:00:03
+ * @LastEditTime: 2023-01-03 16:12:30
  */
-
+(function (window) {
 let appTemplate = `<div id="active_background_fixed" class="well" style="max-width:28rem; background-color: #eeeeee;">
     <div class="container">
         <div class="row">
@@ -80,5 +80,6 @@ var skilltree = {
             closebutton: false
         });
     }
-
 };
+
+})(window);
